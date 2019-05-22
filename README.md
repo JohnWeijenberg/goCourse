@@ -1,2 +1,2 @@
 # goCourse
-Repo for the go course
+Repo for the go course.
